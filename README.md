@@ -1,6 +1,6 @@
 # AI Revenue Recovery Agent
 
-**Track:** AI Revenue Recovery — *Find revenue that's slipping away and win it back*
+**Track3:** AI Revenue Recovery — *Find revenue that's slipping away and win it back*
 
 An agent that detects revenue at risk, diagnoses why it's at risk, chooses the
 right recovery action, and executes a **bounded** recovery workflow — from
