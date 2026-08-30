@@ -13,9 +13,11 @@ messaging, compliant stopping rules, and a full audit trail.
 
 <p align="center">
   <a href="https://youtu.be/7Dr-cMp61xc">
-    <img src="https://raw.githubusercontent.com/Nivedithagowda2/AI-Revenue-Recovery-Agent/main/assets/demo-thumbnail.png"
-         alt="AI Revenue Recovery Agent Demo"
-         width="800">
+    <img
+      src="https://raw.githubusercontent.com/Nivedithagowda2/AI-Revenue-Recovery-Agent/main/assets/demo-thumbnail.png"
+      alt="AI Revenue Recovery Agent Demo"
+      width="800"
+    />
   </a>
 </p>
 
