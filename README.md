@@ -11,8 +11,7 @@ messaging, compliant stopping rules, and a full audit trail.
 ---  
 ## 🎥 Demo Video
 
-[![Watch the demo](https://img.youtube.com/vi/7Dr-cMp61xc/maxresdefault.jpg)](https://youtu.be/7Dr-cMp61xc)
-
+[![Watch the demo](https://img.youtube.com/vi/7Dr-cMp61xc/hqdefault.jpg)](https://youtu.be/7Dr-cMp61xc)
 
 
 ## The problem we're solving
