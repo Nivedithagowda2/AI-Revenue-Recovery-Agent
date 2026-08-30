@@ -9,19 +9,12 @@ overdue B2B receivables — with real Razorpay payment links, real WhatsApp
 messaging, compliant stopping rules, and a full audit trail. 
 
 ---  
- 
-## 🎥 Demo Video
+<h2>🎥 Demo Video</h2>
 
-<p align="center">
+<p>
   <a href="https://youtu.be/7Dr-cMp61xc">
-    <img src="https://raw.githubusercontent.com/Nivedithagowda2/AI-Revenue-Recovery-Agent/main/assets/demo-thumbnail.png"
-         alt="AI Revenue Recovery Agent Demo Video"
-         width="800">
+    ▶️ <strong>Watch AI Revenue Recovery Agent Demo</strong>
   </a>
-</p>
-
-<p align="center">
-  <b>▶️ Click the image above to watch the full demo</b>
 </p>
 
 
