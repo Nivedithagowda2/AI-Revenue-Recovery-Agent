@@ -15,15 +15,15 @@ messaging, compliant stopping rules, and a full audit trail.
 <p align="center">
   <a href="https://youtu.be/7Dr-cMp61xc">
     <img
-      src="https://img.youtube.com/vi/7Dr-cMp61xc/hqdefault.jpg"
-      alt="AI Revenue Recovery Agent Demo Video"
+      src="./assets/demo-thumbnail.png"
+      alt="AI Revenue Recovery Agent Demo"
       width="800"
     />
   </a>
 </p>
 
 <p align="center">
-  <b>▶️ Click the image above to watch the full demo</b>
+  <strong>▶️ Click the image to watch the full demo</strong>
 </p>
 
 
