@@ -6,7 +6,7 @@ An agent that detects revenue at risk, diagnoses why it's at risk, chooses the
 right recovery action, and executes a **bounded** recovery workflow — from
 payment failures and checkout abandonment to halted subscriptions and
 overdue B2B receivables — with real Razorpay payment links, real WhatsApp
-messaging, compliant stopping rules, and a full audit trail.
+messaging, compliant stopping rules, and a full audit trail. 
 
 ---  
 
