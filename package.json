@@ -1,0 +1,26 @@
+{
+  "name": "revenue-recovery-agent",
+  "version": "1.0.0",
+  "description": "AI Revenue Recovery agent for Razorpay: detects payment failures, checkout abandonment, and overdue receivables, classifies root cause, and runs a bounded recovery workflow (payment link resend + WhatsApp nudges) with retry caps and a full audit trail.",
+  "main": "server.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "node server.js",
+    "simulate": "node scripts/simulate-big.js",
+    "simulate:small": "node scripts/simulate.js",
+    "simulate:big": "node scripts/simulate-big.js",
+    "reset": "curl -s -X POST http://localhost:3000/api/reset"
+  },
+  "dependencies": {
+    "better-sqlite3": "^11.3.0",
+    "body-parser": "^1.20.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-cron": "^3.0.3",
+    "razorpay": "^2.9.4",
+    "twilio": "^5.3.0",
+    "uuid": "^9.0.1"
+  }
+}

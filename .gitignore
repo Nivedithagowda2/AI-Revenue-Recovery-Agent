@@ -1,0 +1,6 @@
+﻿node_modules/
+.env
+db/recovery.sqlite
+db/recovery.sqlite-shm
+db/recovery.sqlite-wal
+*.log
