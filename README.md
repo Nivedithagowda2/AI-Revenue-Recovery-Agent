@@ -9,7 +9,7 @@ overdue B2B receivables — with real Razorpay payment links, real WhatsApp
 messaging, compliant stopping rules, and a full audit trail. 
 
 ---  
-
+ 
 ## The problem we're solving
 
 Revenue doesn't disappear in one dramatic moment — it leaks out through
