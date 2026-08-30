@@ -278,5 +278,5 @@ See `.env.example` for the full, commented list. Key ones:
 
 ## Tech stack
 
-Node.js, Express, better-sqlite3, Razorpay Node SDK, Twilio Node SDK,
+Node.js, Express, better-sqlite3, Razorpay Node SDK, Twilio Node SDK,Java
 node-cron, vanilla HTML/CSS/JS dashboard (no frontend framework).
