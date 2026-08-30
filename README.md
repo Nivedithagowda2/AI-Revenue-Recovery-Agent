@@ -11,11 +11,7 @@ messaging, compliant stopping rules, and a full audit trail.
 ---  
 ## 🎥 Demo Video
 
-<p align="center">
-  <a href="https://youtu.be/7Dr-cMp61xc">
-    <strong>▶️ AI Revenue Recovery Agent — Watch Demo</strong>
-  </a>
-</p>
+[![Watch the demo](https://img.youtube.com/vi/7Dr-cMp61xc/maxresdefault.jpg)](https://youtu.be/7Dr-cMp61xc)
 
 
 
