@@ -10,6 +10,12 @@ messaging, compliant stopping rules, and a full audit trail.
 
 ---  
  
+##  Demo Video
+
+[![Watch the Demo](https://img.youtube.com/vi/7Dr-cMp61xc/maxresdefault.jpg)](https://youtu.be/7Dr-cMp61xc)
+
+**▶️ Click the image above to watch the full demo video on YouTube.**
+
 ## The problem we're solving
 
 Revenue doesn't disappear in one dramatic moment — it leaks out through
